@@ -1,0 +1,3 @@
+test.txt    #过滤test.txt 文件
+/test/      #过滤test 目录
+*.txt       #过滤所有以.txt 结尾的文件
